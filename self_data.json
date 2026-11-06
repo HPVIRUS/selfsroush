@@ -1,0 +1,1634 @@
+{
+  "auto_reply": false,
+  "auto_message": "عشق امیر پیستول s",
+  "notes": [],
+  "display_name": "virus",
+  "name_clock": true,
+  "clock_position": "lastname",
+  "clock_font": 5,
+  "spam_slots": [
+    "کص ننت | کص ناموست | کص اول تا اخرت | کص خوارت | کیرم تو اول تا اخر رل جندت | کیرم تو ناموس خدنگت | مادرجنده | کص ناموس | مادر خراب | بی ذات | سگ پدر | جنده زاده | کص ننت کیرم توی کون پدرت خارکسه مادره خرابه پدر جنده | کص ننت کیر جانی توی کص خواهرت | یرم توی کونت کیرم توی مرده زندت | کیرم توی کص خالت کس دالگت | کیر عرب به کص خواهرت | کیر افغانی به کص خواهرت | هوی مادر جنده ی مادر فاکر کیرم تو سق و سیاق مادرت | ننه کونی کیرم تو مرده هات | مرده کونی کیرم تو بند ناف عمت مادر | مادر ساکر ننه جنده | کیرم تو کسننت بیناموس مادر فاحشه | ننتو گاییدم خارننه کونی",
+    "دلم میخواد خفت کنم @Pv_jinx_000",
+    "گوز",
+    "فاطمه مظلوم",
+    "خدایا شکرت",
+    "یسنا برو بخواب",
+    "",
+    ""
+  ],
+  "rep_slots": [
+    "کص ننت | کص ناموست | کص اول تا اخرت | کص خوارت | کیرم تو اول تا اخر رل جندت | کیرم تو ناموس خدنگت | مادرجنده | کص ناموس | مادر خراب | بی ذات | سگ پدر | جنده زاده | کص ننت کیرم توی کون پدرت خارکسه مادره خرابه پدر جنده | کص ننت کیر جانی توی کص خواهرت | یرم توی کونت کیرم توی مرده زندت | کیرم توی کص خالت کس دالگت | کیر عرب به کص خواهرت | کیر افغانی به کص خواهرت | هوی مادر جنده ی مادر فاکر کیرم تو سق و سیاق مادرت | ننه کونی کیرم تو مرده هات | مرده کونی کیرم تو بند ناف عمت مادر | مادر ساکر ننه جنده | کیرم تو کسننت بیناموس مادر فاحشه | ننتو گاییدم خارننه کونی",
+    "کیر سلف توت",
+    "++++++++++++++++++++",
+    "کص نگو",
+    "فدات بشم | قربونت بشم | داش من | عشق من | گوگولی من | گودی گودی من",
+    "ارهههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه",
+    "ارهههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه",
+    "@Magnolia_1389 کجاییی بیا دیگه فدات بشم دخترممممم بیاااااا"
+  ],
+  "triggers": [],
+  "welcome_enabled": false,
+  "welcome_message": "خوش اومدی {name} 👋",
+  "goodbye_enabled": true,
+  "goodbye_message": "خداحافظ {name} 👋",
+  "stats": {
+    "-1000021919906": {
+      "messages_processed": 3421,
+      "replies_sent": 0,
+      "deleted_messages": 124,
+      "kicks": 1,
+      "bans": 1,
+      "mutes": 3,
+      "invites_success": 3,
+      "invites_failed": 152,
+      "invites_skipped": 76,
+      "history": {
+        "2026-09-15": {
+          "deleted_messages": 40,
+          "messages_processed": 1160,
+          "bans": 1
+        },
+        "2026-09-18": {
+          "messages_processed": 21,
+          "deleted_messages": 3
+        },
+        "2026-09-19": {
+          "messages_processed": 502,
+          "kicks": 1,
+          "deleted_messages": 14
+        },
+        "2026-09-22": {
+          "messages_processed": 747
+        },
+        "2026-09-25": {
+          "messages_processed": 37
+        },
+        "2026-10-05": {
+          "messages_processed": 9
+        },
+        "2026-10-07": {
+          "messages_processed": 18
+        },
+        "2026-10-09": {
+          "messages_processed": 179
+        },
+        "2026-10-10": {
+          "messages_processed": 7
+        },
+        "2026-10-11": {
+          "messages_processed": 149
+        },
+        "2026-10-13": {
+          "messages_processed": 2
+        },
+        "2026-10-15": {
+          "messages_processed": 1
+        },
+        "2026-10-23": {
+          "messages_processed": 27
+        },
+        "2026-11-06": {
+          "invites_success": 3,
+          "invites_failed": 152,
+          "invites_skipped": 76
+        }
+      }
+    },
+    "-1000024339727": {
+      "messages_processed": 0,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 4,
+      "bans": 0,
+      "mutes": 0
+    },
+    "43142488": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0
+    },
+    "68406698": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "55822423": {
+      "messages_processed": 5,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 1
+        },
+        "2026-09-19": {
+          "messages_processed": 1
+        },
+        "2026-09-22": {
+          "messages_processed": 1
+        },
+        "2026-10-09": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000024304868": {
+      "messages_processed": 4739,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 50
+        },
+        "2026-09-18": {
+          "messages_processed": 2
+        },
+        "2026-09-19": {
+          "messages_processed": 120
+        },
+        "2026-09-22": {
+          "messages_processed": 3369
+        },
+        "2026-10-05": {
+          "messages_processed": 1
+        },
+        "2026-10-07": {
+          "messages_processed": 1
+        },
+        "2026-10-09": {
+          "messages_processed": 130
+        },
+        "2026-10-10": {
+          "messages_processed": 140
+        },
+        "2026-10-11": {
+          "messages_processed": 143
+        },
+        "2026-10-13": {
+          "messages_processed": 7
+        },
+        "2026-10-15": {
+          "messages_processed": 776
+        }
+      }
+    },
+    "37915741": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "69251976": {
+      "messages_processed": 4,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 1
+        },
+        "2026-09-19": {
+          "messages_processed": 3
+        }
+      }
+    },
+    "-1000024090353": {
+      "messages_processed": 131,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 131
+        }
+      }
+    },
+    "-1000023779557": {
+      "messages_processed": 62,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 62
+        }
+      }
+    },
+    "-1000023616319": {
+      "messages_processed": 15,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 15
+        }
+      }
+    },
+    "-1000024189787": {
+      "messages_processed": 6,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-15": {
+          "messages_processed": 6
+        }
+      }
+    },
+    "-1000024383194": {
+      "messages_processed": 278,
+      "replies_sent": 0,
+      "deleted_messages": 18,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "messages_processed": 271
+        },
+        "2026-09-19": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000024404990": {
+      "messages_processed": 0,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 1,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "invites_success": 1,
+          "invites_failed": 0,
+          "invites_skipped": 0
+        }
+      }
+    },
+    "-1000023738566": {
+      "messages_processed": 211,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "messages_processed": 107
+        },
+        "2026-09-19": {
+          "messages_processed": 104
+        }
+      }
+    },
+    "69003670": {
+      "messages_processed": 3,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "messages_processed": 3
+        }
+      }
+    },
+    "-1000024402714": {
+      "messages_processed": 414,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "messages_processed": 414
+        }
+      }
+    },
+    "40476838": {
+      "messages_processed": 103,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "messages_processed": 64
+        },
+        "2026-11-06": {
+          "messages_processed": 39
+        }
+      }
+    },
+    "69405545": {
+      "messages_processed": 48,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-18": {
+          "messages_processed": 48
+        }
+      }
+    },
+    "-1000024407396": {
+      "messages_processed": 7360,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 51,
+      "invites_failed": 12,
+      "invites_skipped": 14,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 7360,
+          "invites_success": 51,
+          "invites_failed": 12,
+          "invites_skipped": 14
+        }
+      }
+    },
+    "42141791": {
+      "messages_processed": 45,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 44
+        },
+        "2026-10-11": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000024379452": {
+      "messages_processed": 31,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 13,
+      "invites_failed": 74,
+      "invites_skipped": 11,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 9
+        },
+        "2026-09-22": {
+          "messages_processed": 15,
+          "invites_success": 13,
+          "invites_failed": 74,
+          "invites_skipped": 11
+        },
+        "2026-10-07": {
+          "messages_processed": 3
+        },
+        "2026-10-09": {
+          "messages_processed": 1
+        },
+        "2026-10-11": {
+          "messages_processed": 3
+        }
+      }
+    },
+    "-1000024390430": {
+      "messages_processed": 4107,
+      "replies_sent": 0,
+      "deleted_messages": 10,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 48,
+      "invites_failed": 437,
+      "invites_skipped": 129,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 668,
+          "invites_success": 1,
+          "invites_failed": 218,
+          "invites_skipped": 71
+        },
+        "2026-09-22": {
+          "messages_processed": 493,
+          "deleted_messages": 7,
+          "invites_success": 0,
+          "invites_failed": 84,
+          "invites_skipped": 25
+        },
+        "2026-10-05": {
+          "messages_processed": 131,
+          "invites_success": 1,
+          "invites_failed": 96,
+          "invites_skipped": 21
+        },
+        "2026-10-07": {
+          "messages_processed": 74
+        },
+        "2026-10-09": {
+          "messages_processed": 159
+        },
+        "2026-10-10": {
+          "messages_processed": 3
+        },
+        "2026-10-11": {
+          "messages_processed": 974
+        },
+        "2026-10-13": {
+          "messages_processed": 1443
+        },
+        "2026-10-15": {
+          "messages_processed": 23
+        },
+        "2026-10-23": {
+          "deleted_messages": 3,
+          "messages_processed": 31,
+          "invites_success": 46,
+          "invites_failed": 39,
+          "invites_skipped": 12
+        },
+        "2026-11-04": {
+          "messages_processed": 4
+        },
+        "2026-11-06": {
+          "messages_processed": 104
+        }
+      }
+    },
+    "-1000024193957": {
+      "messages_processed": 2221,
+      "replies_sent": 0,
+      "deleted_messages": 7,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 24,
+      "invites_failed": 71,
+      "invites_skipped": 33,
+      "history": {
+        "2026-09-19": {
+          "invites_success": 23,
+          "invites_failed": 9,
+          "invites_skipped": 8,
+          "messages_processed": 168
+        },
+        "2026-09-22": {
+          "messages_processed": 481
+        },
+        "2026-10-07": {
+          "messages_processed": 10,
+          "invites_success": 1,
+          "invites_failed": 27,
+          "invites_skipped": 14,
+          "deleted_messages": 4
+        },
+        "2026-10-09": {
+          "messages_processed": 5
+        },
+        "2026-10-11": {
+          "messages_processed": 635
+        },
+        "2026-10-13": {
+          "messages_processed": 922
+        },
+        "2026-10-23": {
+          "deleted_messages": 3,
+          "invites_success": 0,
+          "invites_failed": 35,
+          "invites_skipped": 11
+        }
+      }
+    },
+    "-1000000038382": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "39183019": {
+      "messages_processed": 2,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 2
+        }
+      }
+    },
+    "57435723": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "69594940": {
+      "messages_processed": 126,
+      "replies_sent": 0,
+      "deleted_messages": 4,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 126,
+          "deleted_messages": 4
+        }
+      }
+    },
+    "777000": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-19": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000024494698": {
+      "messages_processed": 436,
+      "replies_sent": 0,
+      "deleted_messages": 3,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-22": {
+          "messages_processed": 436,
+          "deleted_messages": 3
+        }
+      }
+    },
+    "69819067": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-22": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "70062037": {
+      "messages_processed": 2,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-09-22": {
+          "messages_processed": 2
+        }
+      }
+    },
+    "-1000024707061": {
+      "messages_processed": 151,
+      "replies_sent": 0,
+      "deleted_messages": 6,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 29,
+      "invites_failed": 59,
+      "invites_skipped": 49,
+      "history": {
+        "2026-10-05": {
+          "deleted_messages": 3,
+          "invites_success": 29,
+          "invites_failed": 28,
+          "invites_skipped": 11
+        },
+        "2026-10-07": {
+          "invites_success": 0,
+          "invites_failed": 31,
+          "invites_skipped": 38,
+          "deleted_messages": 3,
+          "messages_processed": 1
+        },
+        "2026-10-11": {
+          "messages_processed": 144
+        },
+        "2026-10-13": {
+          "messages_processed": 2
+        },
+        "2026-11-06": {
+          "messages_processed": 4
+        }
+      }
+    },
+    "-1000024672573": {
+      "messages_processed": 8561,
+      "replies_sent": 0,
+      "deleted_messages": 6,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 58,
+      "invites_skipped": 32,
+      "history": {
+        "2026-10-05": {
+          "deleted_messages": 6,
+          "invites_success": 0,
+          "invites_failed": 58,
+          "invites_skipped": 32,
+          "messages_processed": 8557
+        },
+        "2026-10-07": {
+          "messages_processed": 1
+        },
+        "2026-10-11": {
+          "messages_processed": 3
+        }
+      }
+    },
+    "-1000024629102": {
+      "messages_processed": 93,
+      "replies_sent": 0,
+      "deleted_messages": 6,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 23,
+      "invites_failed": 37,
+      "invites_skipped": 35,
+      "history": {
+        "2026-10-05": {
+          "deleted_messages": 3,
+          "invites_success": 0,
+          "invites_failed": 36,
+          "invites_skipped": 28,
+          "messages_processed": 12
+        },
+        "2026-10-07": {
+          "messages_processed": 1
+        },
+        "2026-10-10": {
+          "messages_processed": 76
+        },
+        "2026-10-11": {
+          "messages_processed": 1
+        },
+        "2026-10-23": {
+          "messages_processed": 3,
+          "deleted_messages": 3,
+          "invites_success": 23,
+          "invites_failed": 1,
+          "invites_skipped": 7
+        }
+      }
+    },
+    "67815696": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-05": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000023993098": {
+      "messages_processed": 2,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-05": {
+          "messages_processed": 2
+        }
+      }
+    },
+    "-1000024292816": {
+      "messages_processed": 0,
+      "replies_sent": 0,
+      "deleted_messages": 3,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 29,
+      "invites_skipped": 4,
+      "history": {
+        "2026-10-07": {
+          "invites_success": 0,
+          "invites_failed": 29,
+          "invites_skipped": 4,
+          "deleted_messages": 3
+        }
+      }
+    },
+    "-1000024764470": {
+      "messages_processed": 5,
+      "replies_sent": 0,
+      "deleted_messages": 3,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 58,
+      "invites_skipped": 33,
+      "history": {
+        "2026-10-07": {
+          "messages_processed": 1
+        },
+        "2026-10-09": {
+          "messages_processed": 1
+        },
+        "2026-10-13": {
+          "messages_processed": 1
+        },
+        "2026-10-23": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "deleted_messages": 3,
+          "invites_success": 0,
+          "invites_failed": 58,
+          "invites_skipped": 33,
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000024896435": {
+      "messages_processed": 13131,
+      "replies_sent": 0,
+      "deleted_messages": 3,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 22,
+      "invites_skipped": 1,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 6242
+        },
+        "2026-10-13": {
+          "messages_processed": 574
+        },
+        "2026-10-15": {
+          "messages_processed": 70
+        },
+        "2026-10-16": {
+          "messages_processed": 16
+        },
+        "2026-10-23": {
+          "messages_processed": 352
+        },
+        "2026-11-03": {
+          "messages_processed": 773
+        },
+        "2026-11-04": {
+          "messages_processed": 19
+        },
+        "2026-11-05": {
+          "messages_processed": 130
+        },
+        "2026-11-06": {
+          "messages_processed": 4955,
+          "invites_success": 0,
+          "invites_failed": 22,
+          "invites_skipped": 1,
+          "deleted_messages": 3
+        }
+      }
+    },
+    "52984020": {
+      "messages_processed": 6,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "messages_processed": 5
+        }
+      }
+    },
+    "-1000024891644": {
+      "messages_processed": 23,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 23
+        }
+      }
+    },
+    "-1000024570181": {
+      "messages_processed": 83,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 67
+        },
+        "2026-10-13": {
+          "messages_processed": 15
+        },
+        "2026-10-23": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "-1000024896544": {
+      "messages_processed": 227,
+      "replies_sent": 0,
+      "deleted_messages": 11,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 10,
+      "invites_failed": 4,
+      "invites_skipped": 3,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 153,
+          "deleted_messages": 8
+        },
+        "2026-10-13": {
+          "messages_processed": 70
+        },
+        "2026-10-16": {
+          "messages_processed": 1
+        },
+        "2026-10-23": {
+          "messages_processed": 3,
+          "deleted_messages": 3,
+          "invites_success": 10,
+          "invites_failed": 4,
+          "invites_skipped": 3
+        }
+      }
+    },
+    "-1000024870356": {
+      "messages_processed": 31,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 25
+        },
+        "2026-10-13": {
+          "messages_processed": 6
+        }
+      }
+    },
+    "-1000024926619": {
+      "messages_processed": 3,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 3
+        }
+      }
+    },
+    "48910659": {
+      "messages_processed": 3,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 3
+        }
+      }
+    },
+    "70391190": {
+      "messages_processed": 13,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-11": {
+          "messages_processed": 4
+        },
+        "2026-10-13": {
+          "messages_processed": 9
+        }
+      }
+    },
+    "-1000024892651": {
+      "messages_processed": 10,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-13": {
+          "messages_processed": 10
+        }
+      }
+    },
+    "70173986": {
+      "messages_processed": 10,
+      "replies_sent": 0,
+      "deleted_messages": 19,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-13": {
+          "deleted_messages": 8
+        },
+        "2026-10-15": {
+          "deleted_messages": 11,
+          "messages_processed": 1
+        },
+        "2026-10-23": {
+          "messages_processed": 9
+        }
+      }
+    },
+    "-1000024925978": {
+      "messages_processed": 38,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-13": {
+          "messages_processed": 38
+        }
+      }
+    },
+    "-1000025101633": {
+      "messages_processed": 402,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-23": {
+          "messages_processed": 402
+        }
+      }
+    },
+    "-1000025162438": {
+      "messages_processed": 517,
+      "replies_sent": 0,
+      "deleted_messages": 1612,
+      "kicks": 2,
+      "bans": 0,
+      "mutes": 4,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 159,
+      "history": {
+        "2026-10-23": {
+          "messages_processed": 83,
+          "deleted_messages": 107
+        },
+        "2026-11-03": {
+          "messages_processed": 78,
+          "invites_success": 0,
+          "invites_failed": 0,
+          "invites_skipped": 61
+        },
+        "2026-11-04": {
+          "messages_processed": 13,
+          "invites_success": 0,
+          "invites_failed": 0,
+          "invites_skipped": 98,
+          "deleted_messages": 5
+        },
+        "2026-11-05": {
+          "deleted_messages": 1462,
+          "messages_processed": 33,
+          "kicks": 2
+        },
+        "2026-11-06": {
+          "messages_processed": 310,
+          "mutes": 4,
+          "deleted_messages": 38
+        }
+      }
+    },
+    "-1000024429042": {
+      "messages_processed": 498,
+      "replies_sent": 0,
+      "deleted_messages": 25,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 39,
+      "invites_failed": 258,
+      "invites_skipped": 174,
+      "history": {
+        "2026-10-23": {
+          "deleted_messages": 16,
+          "messages_processed": 4,
+          "invites_success": 0,
+          "invites_failed": 69,
+          "invites_skipped": 21
+        },
+        "2026-11-03": {
+          "messages_processed": 370,
+          "invites_success": 38,
+          "invites_failed": 39,
+          "invites_skipped": 19,
+          "deleted_messages": 3
+        },
+        "2026-11-04": {
+          "messages_processed": 1,
+          "deleted_messages": 3,
+          "invites_success": 1,
+          "invites_failed": 45,
+          "invites_skipped": 48
+        },
+        "2026-11-05": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "messages_processed": 122,
+          "deleted_messages": 3,
+          "invites_success": 0,
+          "invites_failed": 105,
+          "invites_skipped": 86
+        }
+      }
+    },
+    "69630725": {
+      "messages_processed": 2,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-23": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "69659661": {
+      "messages_processed": 2,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-23": {
+          "messages_processed": 1
+        },
+        "2026-11-04": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "70648271": {
+      "messages_processed": 59,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-23": {
+          "messages_processed": 10
+        },
+        "2026-11-03": {
+          "messages_processed": 5
+        },
+        "2026-11-06": {
+          "messages_processed": 44
+        }
+      }
+    },
+    "70506203": {
+      "messages_processed": 248,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-10-23": {
+          "messages_processed": 248
+        }
+      }
+    },
+    "69166728": {
+      "messages_processed": 24,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-03": {
+          "messages_processed": 17
+        },
+        "2026-11-06": {
+          "messages_processed": 7
+        }
+      }
+    },
+    "-1000025030064": {
+      "messages_processed": 24059,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 297,
+      "invites_skipped": 41,
+      "history": {
+        "2026-11-03": {
+          "messages_processed": 1582
+        },
+        "2026-11-04": {
+          "messages_processed": 1029,
+          "invites_success": 0,
+          "invites_failed": 75,
+          "invites_skipped": 11
+        },
+        "2026-11-05": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "invites_success": 0,
+          "invites_failed": 222,
+          "invites_skipped": 30,
+          "messages_processed": 21447
+        }
+      }
+    },
+    "-1000023341292": {
+      "messages_processed": 31,
+      "replies_sent": 0,
+      "deleted_messages": 6,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-04": {
+          "messages_processed": 21,
+          "deleted_messages": 6
+        },
+        "2026-11-06": {
+          "messages_processed": 10
+        }
+      }
+    },
+    "53633495": {
+      "messages_processed": 5,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-04": {
+          "messages_processed": 1
+        },
+        "2026-11-06": {
+          "messages_processed": 4
+        }
+      }
+    },
+    "-1000024753716": {
+      "messages_processed": 348,
+      "replies_sent": 0,
+      "deleted_messages": 3,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 34,
+      "invites_skipped": 2,
+      "history": {
+        "2026-11-06": {
+          "invites_success": 0,
+          "invites_failed": 34,
+          "invites_skipped": 2,
+          "deleted_messages": 3,
+          "messages_processed": 348
+        }
+      }
+    },
+    "-1000025439698": {
+      "messages_processed": 247,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-06": {
+          "messages_processed": 247
+        }
+      }
+    },
+    "-1000025407780": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 26,
+      "invites_skipped": 7,
+      "history": {
+        "2026-11-06": {
+          "messages_processed": 1,
+          "invites_success": 0,
+          "invites_failed": 26,
+          "invites_skipped": 7
+        }
+      }
+    },
+    "62494125": {
+      "messages_processed": 52,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-06": {
+          "messages_processed": 52
+        }
+      }
+    },
+    "70491595": {
+      "messages_processed": 1,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-06": {
+          "messages_processed": 1
+        }
+      }
+    },
+    "70353166": {
+      "messages_processed": 9,
+      "replies_sent": 0,
+      "deleted_messages": 0,
+      "kicks": 0,
+      "bans": 0,
+      "mutes": 0,
+      "invites_success": 0,
+      "invites_failed": 0,
+      "invites_skipped": 0,
+      "history": {
+        "2026-11-06": {
+          "messages_processed": 9
+        }
+      }
+    }
+  },
+  "invite_state": {
+    "source_chat": "-1000025030064",
+    "target_chat": "-1000025162438",
+    "user_ids": [
+      4329989,
+      24612134,
+      41492976,
+      44652614,
+      48366481,
+      49378181,
+      49843313,
+      52669756,
+      52991470,
+      52995631,
+      53578394,
+      53986707,
+      55503586,
+      58406761,
+      59418688,
+      60177455,
+      60330796,
+      64700883,
+      65538702,
+      67690003,
+      68785321,
+      68889545,
+      68897390,
+      68939163,
+      69086022,
+      69121068,
+      69226154,
+      69306295,
+      69439335,
+      69481747,
+      69498764,
+      69659210,
+      69757569,
+      69816237,
+      69820474,
+      69854326,
+      69858349,
+      69917389,
+      69949466,
+      69999618,
+      70032436,
+      70042846,
+      70054132,
+      70066033,
+      70072317,
+      70099408,
+      70197597,
+      70197718,
+      70197915,
+      70198027,
+      70198080,
+      70203347,
+      70262499,
+      70297955,
+      70306611,
+      70328219,
+      70376635,
+      70388830,
+      70412749,
+      70441256,
+      70461851,
+      70480207,
+      70495878,
+      70517790,
+      70523461,
+      70533138,
+      70600540,
+      70609499,
+      70649621,
+      70665821,
+      70665836,
+      70687763,
+      70806488,
+      70843902
+    ],
+    "index": 74,
+    "found": 85,
+    "already_member": 10,
+    "invited": 0,
+    "failed": 74,
+    "flood_waits": 0,
+    "started_at": "2026-11-06T17:34:04",
+    "running": false
+  },
+  "reply_cooldown": 0,
+  "timers": {
+    "moderation": [],
+    "reminders": []
+  },
+  "auto_reply_bots": true,
+  "auto_reply_groups": true,
+  "auto_reply_cooldown": 0,
+  "reminders": [],
+  "version": "2.0.0"
+}
